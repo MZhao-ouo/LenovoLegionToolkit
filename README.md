@@ -2,6 +2,8 @@
 
 [![Build](https://github.com/BartoszCichecki/LenovoLegionToolkit/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/BartoszCichecki/LenovoLegionToolkit/actions/workflows/build.yml) [![Join Discord](https://img.shields.io/discord/761178912230473768?label=Legion%20Series%20Discord)](https://discord.com/invite/legionseries)
 
+# 📢📢📢官方仓库已发布语言切换功能，该仓库将不再维护，请前往[原项目](https://github.com/BartoszCichecki/LenovoLegionToolkit)查看最新动态
+
 （该仓库为[Lenovo Legion Toolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit)的中文翻译版本，目前还未完善。原项目也在开发动态切换语言的功能，完成后将合并。）
 
 Lenovo Legion Toolkit（LLT）是为联想拯救者笔记本电脑打造的轻量工具集，可以实现联想全家桶（如：联想电脑管家、Legion Zone、Lenovo Vantage）中的大部分功能。
